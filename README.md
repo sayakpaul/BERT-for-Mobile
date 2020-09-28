@@ -1,7 +1,7 @@
 # BERT-for-Mobile
 Compares the [DistilBERT](https://arxiv.org/abs/1910.01108) and [MobileBERT](https://arxiv.org/abs/2004.02984) architectures for mobile deployments. Part of the [End-To-End TFLite Tutorials](https://github.com/ml-gde/e2e-tflite-tutorials) project. 
 
-The notebooks included in this repository show how to fine-tune the DistilBERT model with the SST-2 and IMDB Reviews datasets for text classification. The notebooks also include the code for TensorFlow Lite model conversion. In the future, I plan to also cover question-answering with DistilBERT. 
+The notebooks included in this repository show how to fine-tune the DistilBERT model with the SST-2 and IMDB Reviews datasets for text classification. The notebooks also include the code for TensorFlow Lite model conversion and evaluation. In the future, I plan to also cover question-answering with DistilBERT. 
 
 ## TensorFlow Lite model files and fine-tuned weights
 
