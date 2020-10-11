@@ -7,8 +7,7 @@ The notebooks included in this repository show how to use the DistilBERT model w
 
 ## TensorFlow Lite model files and fine-tuned weights
 
-* [SST-2](https://github.com/sayakpaul/BERT-for-Mobile/releases/tag/v0.2.0) (text classification)
-* [IMDB](https://github.com/sayakpaul/BERT-for-Mobile/releases/tag/v0.1.0) (text classification)
+* [SST-2](https://github.com/sayakpaul/BERT-for-Mobile/releases/) (text classification)
 
 ## Benchmarks 
 
