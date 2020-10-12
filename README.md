@@ -11,6 +11,10 @@ The notebooks included in this repository show how to use the DistilBERT model w
 
 ## Benchmarks 
 
-To be updated
+<div align="center"><img src="https://i.ibb.co/0GNVQRz/IMAGE.png"></img></div>
+
+## Acknowledgements
+
+Thanks to the [ML-GDE program](https://developers.google.com/community/experts) for providing GCP credits that were used in order to spin up an AI Platform Notebook. Thanks to [Khanh LeViet](https://twitter.com/khanhlvg) for his guidance. 
 
 <div align="center"><img src="https://i.ibb.co/ZXtwJjV/Webp-net-resizeimage.png" width="100" height="100"></img></div>
